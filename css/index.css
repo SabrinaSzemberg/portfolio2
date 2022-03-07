@@ -1,0 +1,122 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container {
+    width: 94%;
+    margin: 0 auto;
+}
+
+.cabecalho {
+    padding: 10px 0;
+    background-color: #220135;
+}
+
+.cabecalho-titulo {
+    margin-bottom: 10px;
+    color: #f4effa;
+}
+
+.nav-link {
+    color: #f4effa;
+    padding: 8px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    display: block;
+    border: 2px solid;
+    border-radius: 8px;
+    margin: 0 0 0 10px;
+}
+
+.home {
+    background-color: #3a015c;
+    display: flex;
+}
+
+.box1 {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    height: 500px;
+    margin-left: 90px;
+}
+
+h2 {
+    font-size: 50px;
+    color: #f4effa;
+    margin-top: 90px;
+}
+
+h4 {
+    color: #f4effa;
+    font-size: 20px;
+}
+
+.img {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 90px;
+    
+}
+
+.habilidades-contato {
+    background-color: #220135;
+    color: #f4effa;
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box2 {
+    display: flex;
+    flex-direction: column;
+}
+
+h3 {
+    font-size: 2em;
+    margin-bottom: 8px;
+    color: #f4effa;
+}
+
+.box3 {
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    color: #f4effa;
+}
+
+.projetos {
+    background-color: #3a015c;
+    color: #f4effa;
+    height: 400px;
+}
+
+#projetos {
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+}
+
+.adote-aqui {
+    width: 400px;
+    padding: 20px;
+    flex-direction: row;
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: row wrap;
+    border: 2px solid #220135;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+

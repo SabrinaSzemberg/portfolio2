@@ -1,0 +1,9 @@
+.cabecalho .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cabecalho-nav {
+    display: flex;
+}

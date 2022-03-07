@@ -1,0 +1,7 @@
+:root {
+    --bgcolor: rgb(160, 157, 157);
+    --titlecolor: rgb(150, 104, 224);
+    --textcolor: rgb(240, 248, 255);
+    --bordercolor: rgb(201, 197, 197);
+    --font: ('Sans Serif')
+}
